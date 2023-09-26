@@ -1,0 +1,3 @@
+/Users/air/Desktop/CLion/Lab1-SysProg/cmake-build-debug/CMakeFiles/Lab1_SysProg.dir
+/Users/air/Desktop/CLion/Lab1-SysProg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/air/Desktop/CLion/Lab1-SysProg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
