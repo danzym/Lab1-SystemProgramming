@@ -58,12 +58,11 @@ int main() {
             unique_words_count++;
         }
     }
-
     fclose(file);
 
     for (int i = 0; i < unique_words_count; i++) {
         printf("%s\n", unique_words[i]);
     }
-
+    
     return 0;
 }
